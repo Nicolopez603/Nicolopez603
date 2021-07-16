@@ -20,7 +20,6 @@
   
 </p>
 
-https://badges.pufler.dev/visits/{Nicolopez603}/{Nicolopez603}
 
 [![Visits Badge](https://badges.pufler.dev/visits/Nicolopez603/Nicolopez603)](https://badges.pufler.dev)
 
