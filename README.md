@@ -42,6 +42,7 @@
   📫 How to reach me: <a href='mailto:nicomlopez603@gmail.com'>nicomlopez3@gmail.com</a>
 </p>
 
+[![Visits Badge](https://badges.pufler.dev/visits/Nicolopez603/Nicolopez603)](https://badges.pufler.dev)
 
 <details>
   <summary>📃 Resume</summary>
@@ -59,10 +60,6 @@
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-E34F26?logo=java&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/MySQL-3498DB?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Linux-181717?logo=linux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Docker-3498DB?logo=docker&logoColor=white" />
-
 
 - 👨‍💻 **QA Automation**\
 📆 2021 - moment\
@@ -75,7 +72,7 @@
 
 **Operating Systems**
 
-[![Visits Badge](https://badges.pufler.dev/visits/Nicolopez603/Nicolopez603)](https://badges.pufler.dev)
+
 
 
   
