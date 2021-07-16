@@ -59,10 +59,10 @@
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-E34F26?logo=java&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/MySQL-3498DB?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
 
 
