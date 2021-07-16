@@ -21,14 +21,10 @@
 </p>
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/Nicolopez603/Nicolopez603)](https://badges.pufler.dev)
-
-
-
 <p align='center'>
   💻 My workspace<br/><br/>
 
-  <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/amd-ryzen%202200g%20-red.svg?&style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
