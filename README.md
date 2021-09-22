@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  A QA Automation from Buenos aires, Argentina.
+  A DevOps Engineer from Buenos aires, Argentina.
 </p>
 
 
