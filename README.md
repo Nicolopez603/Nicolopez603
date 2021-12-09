@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  A DevOps Engineer from Buenos aires, Argentina.
+  A DevOps Engineer And Smart Contract Engineer from Buenos aires, Argentina.
 </p>
 
 
@@ -23,11 +23,6 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-
-  <img src="https://img.shields.io/badge/intel%20I5%204200m%20-blue.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
 
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
@@ -56,18 +51,19 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Java-E34F26?logo=java&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/MySQL-3498DB?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+- 👨‍💻 **Smart Contract Engineer**\
+📆 2021 December - \
+📍 **Freelance** - Buenos Aires, Argentina
+
+
+  
+- 👨‍💻 **DevOps Engineer**\
+📆 2021 - December\
+📍 **Nubilink** - Buenos Aires, Argentina
 
 
 - 👨‍💻 **QA Automation**\
-📆 2021 - moment\
+📆 2020 - 2021\
 📍 **Freelance** - Buenos Aires, Argentina
 
 ## Technical information
