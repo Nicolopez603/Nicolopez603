@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  A DevOps Engineer And Smart Contract Engineer from Buenos aires, Argentina.
+  from Buenos aires, Argentina.
 </p>
 
 
