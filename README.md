@@ -4,14 +4,14 @@
 </h1>
 
 <p align='center'>
-  from Buenos aires, Argentina.
+  From Buenos aires, Argentina.
 </p>
 
 
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/nicolas-lopez-qa-automation/">
+  <a href="https://www.linkedin.com/in/nicolas-lopez-qa/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/nml603/">
@@ -35,60 +35,3 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:nicomlopez603@gmail.com'>nicomlopez3@gmail.com</a>
 </p>
-
-[![Visits Badge](https://badges.pufler.dev/visits/Nicolopez603/Nicolopez603)](https://badges.pufler.dev)
-
-<details>
-  <summary>📃 Resume</summary>
-
-
-## Education
-
-- 📖 **High school**\
-📆 2013 - 2018\
-📍 **Escuela Normal Nº1 Mary O. Graham** - Buenos Aires, Argentina
-
-
-## Experience
-
-- 👨‍💻 **Smart Contract Engineer**\
-📆 2021 December - \
-📍 **Freelance** - Buenos Aires, Argentina
-
-
-  
-- 👨‍💻 **DevOps Engineer**\
-📆 2021 - December\
-📍 **Nubilink** - Buenos Aires, Argentina
-
-
-- 👨‍💻 **QA Automation**\
-📆 2020 - 2021\
-📍 **Freelance** - Buenos Aires, Argentina
-
-## Technical information
-
-
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-
-**Operating Systems**
-
-
-
-
-  
-
-<!--
-**Nicolopez603/Nicolopez603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
