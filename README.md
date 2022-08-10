@@ -10,7 +10,7 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.js`, `.ts`, `.jar`
+- ⚙️ I normally use : `Javascript`, `Typescript`, `Java`
 - 🌍 I'm mostly active within the **Cypress Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Testing**, **Cypress**, **Selenium**, **Recourses of testing**, **Development**, **Communities**
@@ -18,9 +18,6 @@
 - 📫 Reach me: <p align='center'>
   <a href="https://www.linkedin.com/in/nicolas-lopez-qa/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/nml098/">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
