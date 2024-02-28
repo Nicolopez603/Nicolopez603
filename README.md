@@ -1,6 +1,6 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30">
 
-### I'm a QA Automation working in ScotiaBank 👨‍💻
+### I'm a QA Automation working in Ensitech MX 👨‍💻
 
 ##### NOW
 
@@ -16,7 +16,7 @@
 - 💬 Ping me about **Testing**, **Cypress**, **Selenium**, **Recourses of testing**, **Development**, **Communities**
 - ⚡️ Fun fact: I'm a big fan of playing computer games like LoL or CS
 - 📫 Reach me: <p align='center'>
-  <a href="https://www.linkedin.com/in/nicolas-lopez-qa/">
+  <a href="https://www.linkedin.com/in/nicolaslopezqa/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
